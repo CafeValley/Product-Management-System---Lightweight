@@ -1,0 +1,2 @@
+.bi { display: inline-block; width: 1em; height: 1em; fill: currentColor; }
+.bi-alarm::before { content: "⏰"; }

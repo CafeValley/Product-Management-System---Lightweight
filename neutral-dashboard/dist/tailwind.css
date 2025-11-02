@@ -1,0 +1,16 @@
+/* Tailwind CSS placeholder - run Tailwind CLI to regenerate real CSS */
+body { font-family: sans-serif; }
+.bg-gray-100 { background-color: #f7fafc; }
+.text-gray-800 { color: #2d3748; }
+.text-3xl { font-size: 1.875rem; font-weight: bold; }
+.text-gray-600 { color: #718096; }
+.mt-2 { margin-top: 0.5rem; }
+.mt-4 { margin-top: 1rem; }
+.p-6 { padding: 1.5rem; }
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+.py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+.bg-blue-600 { background-color: #2563eb; }
+.text-white { color: #fff; }
+.rounded-lg { border-radius: 0.5rem; }
+.shadow { box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.hover\:bg-blue-700:hover { background-color: #1d4ed8; }
